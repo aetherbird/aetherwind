@@ -23,8 +23,8 @@ local base_colors = {
 	['aetherwind-red-600']     = '#AF3029',
 	['aetherwind-red-400']     = '#D14D41',
 
-	['aetherwind-orange-600']  = '#BC5215',
-	['aetherwind-orange-400']  = '#DA702C',
+	['aetherwind-orange-600']  = '#BC4225',
+	['aetherwind-orange-400']  = '#DA503C',
 
 	['aetherwind-yellow-900']  = '#4D3A0B',
 	['aetherwind-yellow-600']  = '#AD8301',
