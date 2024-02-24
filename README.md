@@ -1,5 +1,5 @@
 # aetherwind-neovim
-Neovim adaptation of [Aetherwind](stephango.com/aetherwind) by Steph Ango
+[Aetherwind] color scheme
 
 Currently still **work in progress** and missing support for even the most
 common plugins. This will be fixed shortly. If you are using a plugin that
@@ -20,7 +20,7 @@ To install simply add via your plugin manager and call the theme
 
 ```lua
 require("lazy").setup({
-  { 'kepano/aetherwind-neovim', name = 'aetherwind' }
+  { 'aetherbird/aetherwind-neovim', name = 'aetherwind' }
 })
 ```
 
@@ -28,7 +28,7 @@ require("lazy").setup({
 
 ```lua
 require('packer').startup(function(use)
-  use({ 'kepano/aetherwind-neovim', as = 'aetherwind' })
+  use({ 'aetherbird/aetherwind-neovim', as = 'aetherwind' })
 end)
 ```
 
@@ -36,7 +36,7 @@ end)
 
 ```lua
 require('paq')({
-  { 'kepano/aetherwind-neovim', as = 'aetherwind' }
+  { 'aetherbird/aetherwind-neovim', as = 'aetherwind' }
 })
 ```
 
