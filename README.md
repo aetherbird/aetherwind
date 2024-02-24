@@ -1,5 +1,5 @@
-# flexoki-neovim
-Neovim adaptation of [Flexoki](stephango.com/flexoki) by Steph Ango
+# aetherwind-neovim
+Neovim adaptation of [Flexoki](stephango.com/aetherwind) by Steph Ango
 
 Currently still **work in progress** and missing support for even the most
 common plugins. This will be fixed shortly. If you are using a plugin that
@@ -8,9 +8,9 @@ this to prioritize them.
 
 > These aren't currently up to date
 
-![Flexoki Dark for Neovim](screenshots/flexoki-neovim-dark.png)
+![Flexoki Dark for Neovim](screenshots/aetherwind-neovim-dark.png)
 
-![Flexoki Light for Neovim](screenshots/flexoki-neovim-light.png)
+![Flexoki Light for Neovim](screenshots/aetherwind-neovim-light.png)
 
 
 ## Installation
@@ -20,7 +20,7 @@ To install simply add via your plugin manager and call the theme
 
 ```lua
 require("lazy").setup({
-  { 'kepano/flexoki-neovim', name = 'flexoki' }
+  { 'kepano/aetherwind-neovim', name = 'aetherwind' }
 })
 ```
 
@@ -28,7 +28,7 @@ require("lazy").setup({
 
 ```lua
 require('packer').startup(function(use)
-  use({ 'kepano/flexoki-neovim', as = 'flexoki' })
+  use({ 'kepano/aetherwind-neovim', as = 'aetherwind' })
 end)
 ```
 
@@ -36,7 +36,7 @@ end)
 
 ```lua
 require('paq')({
-  { 'kepano/flexoki-neovim', as = 'flexoki' }
+  { 'kepano/aetherwind-neovim', as = 'aetherwind' }
 })
 ```
 
@@ -46,12 +46,12 @@ require('paq')({
 
 ```lua
 -- Set colorscheme after options
-vim.cmd('colorscheme flexoki-dark')
+vim.cmd('colorscheme aetherwind-dark')
 ```
 
 * Light
 
 ```lua
 -- Set colorscheme after options
-vim.cmd('colorscheme flexoki-light')
+vim.cmd('colorscheme aetherwind-light')
 ```

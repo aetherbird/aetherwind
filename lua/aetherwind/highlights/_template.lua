@@ -1,4 +1,4 @@
-local palette = require('flexoki.palette')
+local palette = require('aetherwind.palette')
 
 local M = {}
 

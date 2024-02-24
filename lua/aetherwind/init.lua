@@ -1,4 +1,4 @@
-local config = require('flexoki.config')
+local config = require('aetherwind.config')
 
 local M = {}
 
@@ -14,9 +14,9 @@ M.colorscheme = function(opts)
 		vim.cmd('syntax reset')
 	end
 
-	vim.g.colors_name = 'flexoki'
+	vim.g.colors_name = 'aetherwind'
 
-	require('flexoki.theme').set_highlights(opts)
+	require('aetherwind.theme').set_highlights(opts)
 end
 
 ---Set up the Flexoki colorscheme

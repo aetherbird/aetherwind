@@ -1,4 +1,4 @@
-local highlights = require('flexoki.highlights')
+local highlights = require('aetherwind.highlights')
 
 local hl = vim.api.nvim_set_hl
 
