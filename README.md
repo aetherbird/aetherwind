@@ -1,7 +1,7 @@
 # aetherwind-neovim
 Aetherwind color scheme
-![Aetherwind Dark for Neovim](screenshots/aetherwind-dark.png)
-<!-- ![Aetherwind Light for Neovim](screenshots/aetherwind-neovim-light.png) -->
+![Aetherwind Dark for Neovim](screenshots/aetherwind.png)
+<!-- ![Aetherwind Light for Neovim](screenshots/aetherwind-light.png) -->
 ## Installation
 To install simply add via your plugin manager and call the theme
 
