@@ -2,7 +2,7 @@
 
 local M = {}
 
----@class FlexokiOptions
+---@class AetherwindOptions
 M.options = {
 	---Set the desired variant: 'auto' will follow the vim background,
 	---defaulting to 'main' for dark and 'dawn' for light. To change the dark
@@ -24,7 +24,7 @@ M.options = {
 	highlight_groups = {},
 }
 
----@param options FlexokiOptions|nil
+---@param options AetherwindOptions|nil
 function M.extend(options)
 	M.options = vim.tbl_deep_extend('force', M.options, options or {})
 end

@@ -2,8 +2,8 @@ local config = require('aetherwind.config')
 
 local M = {}
 
----Load the Flexoki colorscheme
----@param opts FlexokiOptions
+---Load the Aetherwind colorscheme
+---@param opts AetherwindOptions
 M.colorscheme = function(opts)
 	config.extend(opts)
 
@@ -19,8 +19,8 @@ M.colorscheme = function(opts)
 	require('aetherwind.theme').set_highlights(opts)
 end
 
----Set up the Flexoki colorscheme
----@param opts FlexokiOptions
+---Set up the Aetherwind colorscheme
+---@param opts AetherwindOptions
 M.setup = function (opts)
 	config.extend(opts)
 end

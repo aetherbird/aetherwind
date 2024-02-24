@@ -1,5 +1,5 @@
 # aetherwind-neovim
-Neovim adaptation of [Flexoki](stephango.com/aetherwind) by Steph Ango
+Neovim adaptation of [Aetherwind](stephango.com/aetherwind) by Steph Ango
 
 Currently still **work in progress** and missing support for even the most
 common plugins. This will be fixed shortly. If you are using a plugin that
@@ -8,9 +8,9 @@ this to prioritize them.
 
 > These aren't currently up to date
 
-![Flexoki Dark for Neovim](screenshots/aetherwind-neovim-dark.png)
+![Aetherwind Dark for Neovim](screenshots/aetherwind-neovim-dark.png)
 
-![Flexoki Light for Neovim](screenshots/aetherwind-neovim-light.png)
+![Aetherwind Light for Neovim](screenshots/aetherwind-neovim-light.png)
 
 
 ## Installation

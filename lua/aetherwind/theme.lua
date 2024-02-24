@@ -4,7 +4,7 @@ local hl = vim.api.nvim_set_hl
 
 local M = {}
 
----@param opts FlexokiOptions
+---@param opts AetherwindOptions
 M.set_highlights = function(opts)
 	local highlight_groups = highlights.groups()
 
