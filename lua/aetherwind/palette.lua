@@ -34,10 +34,10 @@ local base_colors = {
 	['aetherwind-green-600']   = '#66800B',
 	['aetherwind-green-400']   = '#879A39',
 
-	['aetherwind-cyan-950']    = '#142625',
-	['aetherwind-cyan-600']    = '#24837B',
-	['aetherwind-cyan-400']    = '#3AA99F',
-	['aetherwind-cyan-50']     = '#EBF2E7',
+	['aetherwind-cyan-950']    = '#445655',
+	['aetherwind-cyan-600']    = '#54B3AB',
+	['aetherwind-cyan-400']    = '#6AD9BF',
+	['aetherwind-cyan-50']     = '#FBF6F8',
 
 	['aetherwind-blue-600']    = '#205EA6',
 	['aetherwind-blue-400']    = '#4385BE',
