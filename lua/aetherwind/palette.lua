@@ -3,7 +3,7 @@ local config = require('aetherwind.config')
 local M = {}
 
 local base_colors = {
-	['aetherwind-black']       = '#100F0F',
+	['aetherwind-black']       = '#080010',
 	['aetherwind-paper']       = '#FFFCF0',
 
 	['aetherwind-950']         = '#1C1B1A',
@@ -14,7 +14,8 @@ local base_colors = {
 	['aetherwind-600']         = '#6F6E69',
 	['aetherwind-500']         = '#878580',
 	['aetherwind-300']         = '#B7B5AC',
-	['aetherwind-200']         = '#CECDC3',
+	['aetherwind-200']         = '#FEFBFE',
+	['aetherwind-201']         = '#EEEDE3',
 	['aetherwind-150']         = '#DAD8CE',
 	['aetherwind-100']         = '#E6E4D9',
 	['aetherwind-50']          = '#F2F0E5',
