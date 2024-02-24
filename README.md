@@ -1,5 +1,5 @@
 # aetherwind-neovim
-[Aetherwind] color scheme
+Aetherwind color scheme
 ![Aetherwind Dark for Neovim](screenshots/aetherwind-dark.png)
 <!-- ![Aetherwind Light for Neovim](screenshots/aetherwind-neovim-light.png) -->
 ## Installation
