@@ -6,7 +6,7 @@ local base_colors = {
 	['aetherwind-black']       = '#080010',
 	['aetherwind-paper']       = '#FFFCF0',
 
-	['aetherwind-950']         = '#4C4B6A',
+	['aetherwind-950']         = '#4B4A6A',
 	['aetherwind-900']         = '#585776',
 	['aetherwind-850']         = '#646381',
 	['aetherwind-800']         = '#706E9C',
